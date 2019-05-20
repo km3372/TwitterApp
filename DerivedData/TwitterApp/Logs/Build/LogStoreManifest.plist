@@ -5,6 +5,327 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>0D6FCFD8-2AE2-4A7D-8553-48EA417645BE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0D6FCFD8-2AE2-4A7D-8553-48EA417645BE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TwitterApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TwitterApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean TwitterApp</string>
+			<key>timeStartedRecording</key>
+			<real>580059261.58992398</real>
+			<key>timeStoppedRecording</key>
+			<real>580059261.72144198</real>
+			<key>title</key>
+			<string>Clean TwitterApp</string>
+			<key>uniqueIdentifier</key>
+			<string>0D6FCFD8-2AE2-4A7D-8553-48EA417645BE</string>
+		</dict>
+		<key>1DA2F89C-F638-4720-A515-999316874681</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1DA2F89C-F638-4720-A515-999316874681.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TwitterApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TwitterApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TwitterApp</string>
+			<key>timeStartedRecording</key>
+			<real>580059352.88104296</real>
+			<key>timeStoppedRecording</key>
+			<real>580059353.38663995</real>
+			<key>title</key>
+			<string>Build TwitterApp</string>
+			<key>uniqueIdentifier</key>
+			<string>1DA2F89C-F638-4720-A515-999316874681</string>
+		</dict>
+		<key>53AB4F0E-E6D6-46DF-88AE-CCA9DF38C9AD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>53AB4F0E-E6D6-46DF-88AE-CCA9DF38C9AD.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TwitterApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TwitterApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TwitterApp</string>
+			<key>timeStartedRecording</key>
+			<real>579709485.43563998</real>
+			<key>timeStoppedRecording</key>
+			<real>579709485.50358796</real>
+			<key>title</key>
+			<string>Build TwitterApp</string>
+			<key>uniqueIdentifier</key>
+			<string>53AB4F0E-E6D6-46DF-88AE-CCA9DF38C9AD</string>
+		</dict>
+		<key>5E8B5C07-7756-4F9A-A226-A75C721A9022</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5E8B5C07-7756-4F9A-A226-A75C721A9022.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TwitterApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TwitterApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean TwitterApp</string>
+			<key>timeStartedRecording</key>
+			<real>580059296.53692102</real>
+			<key>timeStoppedRecording</key>
+			<real>580059296.61136401</real>
+			<key>title</key>
+			<string>Clean TwitterApp</string>
+			<key>uniqueIdentifier</key>
+			<string>5E8B5C07-7756-4F9A-A226-A75C721A9022</string>
+		</dict>
+		<key>7062ACA9-E9A0-454E-9931-A51D60EFF82C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7062ACA9-E9A0-454E-9931-A51D60EFF82C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TwitterApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TwitterApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TwitterApp</string>
+			<key>timeStartedRecording</key>
+			<real>580062722.83492196</real>
+			<key>timeStoppedRecording</key>
+			<real>580062728.13962102</real>
+			<key>title</key>
+			<string>Build TwitterApp</string>
+			<key>uniqueIdentifier</key>
+			<string>7062ACA9-E9A0-454E-9931-A51D60EFF82C</string>
+		</dict>
+		<key>7DEA374F-5F59-4687-BE8F-7614D516B5C7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7DEA374F-5F59-4687-BE8F-7614D516B5C7.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TwitterApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TwitterApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TwitterApp</string>
+			<key>timeStartedRecording</key>
+			<real>580059267.79723597</real>
+			<key>timeStoppedRecording</key>
+			<real>580059268.89626801</real>
+			<key>title</key>
+			<string>Build TwitterApp</string>
+			<key>uniqueIdentifier</key>
+			<string>7DEA374F-5F59-4687-BE8F-7614D516B5C7</string>
+		</dict>
+		<key>8EF31A9A-953C-4C9D-9CCE-7FE364164DB3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8EF31A9A-953C-4C9D-9CCE-7FE364164DB3.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TwitterApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TwitterApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean TwitterApp</string>
+			<key>timeStartedRecording</key>
+			<real>580059716.88014102</real>
+			<key>timeStoppedRecording</key>
+			<real>580059716.93231797</real>
+			<key>title</key>
+			<string>Clean TwitterApp</string>
+			<key>uniqueIdentifier</key>
+			<string>8EF31A9A-953C-4C9D-9CCE-7FE364164DB3</string>
+		</dict>
+		<key>A2A003C8-80BF-4FA9-8554-01BA20D0CDAA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A2A003C8-80BF-4FA9-8554-01BA20D0CDAA.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TwitterApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TwitterApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean TwitterApp</string>
+			<key>timeStartedRecording</key>
+			<real>580059554.16298497</real>
+			<key>timeStoppedRecording</key>
+			<real>580059554.20265806</real>
+			<key>title</key>
+			<string>Clean TwitterApp</string>
+			<key>uniqueIdentifier</key>
+			<string>A2A003C8-80BF-4FA9-8554-01BA20D0CDAA</string>
+		</dict>
+		<key>EE1D5460-672A-4E4A-862D-062C9B54D3BF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EE1D5460-672A-4E4A-862D-062C9B54D3BF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TwitterApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TwitterApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean TwitterApp</string>
+			<key>timeStartedRecording</key>
+			<real>580062717.76163495</real>
+			<key>timeStoppedRecording</key>
+			<real>580062717.81385899</real>
+			<key>title</key>
+			<string>Clean TwitterApp</string>
+			<key>uniqueIdentifier</key>
+			<string>EE1D5460-672A-4E4A-862D-062C9B54D3BF</string>
+		</dict>
+		<key>EFD8743B-4D4B-498F-AEFD-550A7FD28789</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EFD8743B-4D4B-498F-AEFD-550A7FD28789.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TwitterApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TwitterApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean TwitterApp</string>
+			<key>timeStartedRecording</key>
+			<real>580059548.954633</real>
+			<key>timeStoppedRecording</key>
+			<real>580059549.08227003</real>
+			<key>title</key>
+			<string>Clean TwitterApp</string>
+			<key>uniqueIdentifier</key>
+			<string>EFD8743B-4D4B-498F-AEFD-550A7FD28789</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
